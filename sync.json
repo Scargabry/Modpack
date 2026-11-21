@@ -1,535 +1,641 @@
 {
-  "version": "1.0.1",
-  "mods": [
+  "sync_version": 3,
+  "sync": [
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
       "name": "AdvancementPlaques-1.21.1-neoforge-1.6.8",
-      "file": "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar"
+      "version": "1.0.1-001",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
       "name": "AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1",
-      "file": "AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar"
+      "version": "1.0.1-002",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
       "name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14",
-      "file": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
+      "version": "1.0.1-003",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Corgilib-NeoForge-1.21.1-5.0.0.10.jar",
       "name": "Corgilib-NeoForge-1.21.1-5.0.0.10",
-      "file": "Corgilib-NeoForge-1.21.1-5.0.0.10.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Corgilib-NeoForge-1.21.1-5.0.0.10.jar"
+      "version": "1.0.1-004",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Create%20Encased-1.21.1-1.10.1-fix1.jar",
       "name": "Create Encased-1.21.1-1.10.1-fix1",
-      "file": "Create Encased-1.21.1-1.10.1-fix1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Create%20Encased-1.21.1-1.10.1-fix1.jar"
+      "version": "1.0.1-005",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar",
       "name": "CreativeCore_NEOFORGE_v2.13.55_mc1.21.1",
-      "file": "CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar"
+      "version": "1.0.1-006",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Distant%20Horizons%20SeedGen%200.9.1%20for%201.21.1%20NeoForge.jar",
       "name": "Distant Horizons SeedGen 0.9.1 for 1.21.1 NeoForge",
-      "file": "Distant Horizons SeedGen 0.9.1 for 1.21.1 NeoForge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Distant%20Horizons%20SeedGen%200.9.1%20for%201.21.1%20NeoForge.jar"
+      "version": "1.0.1-007",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
       "name": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge",
-      "file": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+      "version": "1.0.1-008",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/FallingTree-1.21.1-1.21.1.11.jar",
       "name": "FallingTree-1.21.1-1.21.1.11",
-      "file": "FallingTree-1.21.1-1.21.1.11.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/FallingTree-1.21.1-1.21.1.11.jar"
+      "version": "1.0.1-009",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Geophilic%20v3.7.mod.jar",
       "name": "Geophilic v3.7.mod",
-      "file": "Geophilic v3.7.mod.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Geophilic%20v3.7.mod.jar"
+      "version": "1.0.1-010",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/GeophilicBackported-v1.3.3%201.21.1.jar",
       "name": "GeophilicBackported-v1.3.3 1.21.1",
-      "file": "GeophilicBackported-v1.3.3 1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/GeophilicBackported-v1.3.3%201.21.1.jar"
+      "version": "1.0.1-011",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
       "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
-      "file": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+      "version": "1.0.1-012",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Highlighter-1.21-neoforge-1.1.11.jar",
       "name": "Highlighter-1.21-neoforge-1.1.11",
-      "file": "Highlighter-1.21-neoforge-1.1.11.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Highlighter-1.21-neoforge-1.1.11.jar"
+      "version": "1.0.1-013",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
       "name": "Iceberg-1.21.1-neoforge-1.3.2",
-      "file": "Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
+      "version": "1.0.1-014",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/KotlinLangForge-2.20.0-k2.4.21-3.0+neoforge.jar",
       "name": "KotlinLangForge-2.20.0-k2.4.21-3.0+neoforge",
-      "file": "KotlinLangForge-2.20.0-k2.4.21-3.0+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/KotlinLangForge-2.20.0-k2.4.21-3.0+neoforge.jar"
+      "version": "1.0.1-015",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar",
       "name": "LeavesBeGone-v21.1.1-1.21.1-NeoForge",
-      "file": "LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar"
+      "version": "1.0.1-016",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
       "name": "MoogsStructureLib-neoforge-1.21.1-3.4.2",
-      "file": "MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar"
+      "version": "1.0.1-017",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
       "name": "MoogsVoyagerStructures-universal-1.21-5.1.3",
-      "file": "MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar"
+      "version": "1.0.1-018",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar",
       "name": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3",
-      "file": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar"
+      "version": "1.0.1-019",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6.jar",
       "name": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6",
-      "file": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6.jar"
+      "version": "1.0.1-020",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/ParticleEffects-1.7.0+1.21.1+neoforge.jar",
       "name": "ParticleEffects-1.7.0+1.21.1+neoforge",
-      "file": "ParticleEffects-1.7.0+1.21.1+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/ParticleEffects-1.7.0+1.21.1+neoforge.jar"
+      "version": "1.0.1-021",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
       "name": "Ping-Wheel-1.12.2-neoforge-1.21.1",
-      "file": "Ping-Wheel-1.12.2-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Ping-Wheel-1.12.2-neoforge-1.21.1.jar"
+      "version": "1.0.1-022",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Platform-neoforge-1.21.1-1.4.2.jar",
       "name": "Platform-neoforge-1.21.1-1.4.2",
-      "file": "Platform-neoforge-1.21.1-1.4.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Platform-neoforge-1.21.1-1.4.2.jar"
+      "version": "1.0.1-023",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
       "name": "PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge",
-      "file": "PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar"
+      "version": "1.0.1-024",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Quark-4.1-488.jar",
       "name": "Quark-4.1-488",
-      "file": "Quark-4.1-488.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Quark-4.1-488.jar"
+      "version": "1.0.1-025",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "name": "TerraBlender-neoforge-1.21.1-4.1.0.8",
-      "file": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+      "version": "1.0.1-026",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
       "name": "Terralith_1.21.1_v2.6.2_Neoforge",
-      "file": "Terralith_1.21.1_v2.6.2_Neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar"
+      "version": "1.0.1-027",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/VanillaBackport-neoforge-1.21.1-1.2.2.jar",
       "name": "VanillaBackport-neoforge-1.21.1-1.2.2",
-      "file": "VanillaBackport-neoforge-1.21.1-1.2.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/VanillaBackport-neoforge-1.21.1-1.2.2.jar"
+      "version": "1.0.1-028",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "name": "YungsApi-1.21.1-NeoForge-5.1.9",
-      "file": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar"
+      "version": "1.0.1-029",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
       "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5",
-      "file": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+      "version": "1.0.1-030",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "name": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4",
-      "file": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+      "version": "1.0.1-031",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
       "name": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1",
-      "file": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+      "version": "1.0.1-032",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
       "name": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2",
-      "file": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+      "version": "1.0.1-033",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
       "name": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3",
-      "file": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+      "version": "1.0.1-034",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
       "name": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1",
-      "file": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+      "version": "1.0.1-035",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
       "name": "YungsBridges-1.21.1-NeoForge-5.1.1",
-      "file": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+      "version": "1.0.1-036",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
       "name": "YungsExtras-1.21.1-NeoForge-5.1.1",
-      "file": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+      "version": "1.0.1-037",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Zeta-1.1-40.jar",
       "name": "Zeta-1.1-40",
-      "file": "Zeta-1.1-40.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Zeta-1.1-40.jar"
+      "version": "1.0.1-038",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/aeroworks-1.5.0.jar",
       "name": "aeroworks-1.5.0",
-      "file": "aeroworks-1.5.0.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/aeroworks-1.5.0.jar"
+      "version": "1.0.1-039",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
       "name": "appleskin-neoforge-mc1.21-3.0.9",
-      "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+      "version": "1.0.1-040",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/architectury-13.0.12-neoforge.jar",
       "name": "architectury-13.0.12-neoforge",
-      "file": "architectury-13.0.12-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/architectury-13.0.12-neoforge.jar"
+      "version": "1.0.1-041",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/balm-neoforge-1.21.1-21.0.67.jar",
       "name": "balm-neoforge-1.21.1-21.0.67",
-      "file": "balm-neoforge-1.21.1-21.0.67.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/balm-neoforge-1.21.1-21.0.67.jar"
+      "version": "1.0.1-042",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/boatiview-neoforge-0.0.6-1.21.1.jar",
       "name": "boatiview-neoforge-0.0.6-1.21.1",
-      "file": "boatiview-neoforge-0.0.6-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/boatiview-neoforge-0.0.6-1.21.1.jar"
+      "version": "1.0.1-043",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/borderless-neoforge-1.21.1-1.7.5_1-all.jar",
       "name": "borderless-neoforge-1.21.1-1.7.5_1-all",
-      "file": "borderless-neoforge-1.21.1-1.7.5_1-all.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/borderless-neoforge-1.21.1-1.7.5_1-all.jar"
+      "version": "1.0.1-044",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
       "name": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124",
-      "file": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar"
+      "version": "1.0.1-045",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/chatanimation-neoforge-1.3.5+mc1.21.jar",
       "name": "chatanimation-neoforge-1.3.5+mc1.21",
-      "file": "chatanimation-neoforge-1.3.5+mc1.21.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/chatanimation-neoforge-1.3.5+mc1.21.jar"
+      "version": "1.0.1-046",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cloth-config-15.0.140-neoforge.jar",
       "name": "cloth-config-15.0.140-neoforge",
-      "file": "cloth-config-15.0.140-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cloth-config-15.0.140-neoforge.jar"
+      "version": "1.0.1-047",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cmparallelpipes-neoforge-2.0.2.jar",
       "name": "cmparallelpipes-neoforge-2.0.2",
-      "file": "cmparallelpipes-neoforge-2.0.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cmparallelpipes-neoforge-2.0.2.jar"
+      "version": "1.0.1-048",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/connector-2.0.0-beta.17+1.21.1-full.jar",
       "name": "connector-2.0.0-beta.17+1.21.1-full",
-      "file": "connector-2.0.0-beta.17+1.21.1-full.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/connector-2.0.0-beta.17+1.21.1-full.jar"
+      "version": "1.0.1-049",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/continuity-3.0.0+1.21.neoforge.jar",
       "name": "continuity-3.0.0+1.21.neoforge",
-      "file": "continuity-3.0.0+1.21.neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/continuity-3.0.0+1.21.neoforge.jar"
+      "version": "1.0.1-050",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
       "name": "coroutil-neoforge-1.21.0-1.3.8",
-      "file": "coroutil-neoforge-1.21.0-1.3.8.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar"
+      "version": "1.0.1-051",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cosycritters-0.3.3+1.21.1-neoforge.jar",
       "name": "cosycritters-0.3.3+1.21.1-neoforge",
-      "file": "cosycritters-0.3.3+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cosycritters-0.3.3+1.21.1-neoforge.jar"
+      "version": "1.0.1-052",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create-1.21.1-6.0.10.jar",
       "name": "create-1.21.1-6.0.10",
-      "file": "create-1.21.1-6.0.10.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create-1.21.1-6.0.10.jar"
+      "version": "1.0.1-053",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create-aeronautics-bundled-1.21.1-1.3.3.jar",
       "name": "create-aeronautics-bundled-1.21.1-1.3.3",
-      "file": "create-aeronautics-bundled-1.21.1-1.3.3.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create-aeronautics-bundled-1.21.1-1.3.3.jar"
+      "version": "1.0.1-054",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
       "name": "create_copper_and_zinc-2.0.0-neoforge-1.21.1",
-      "file": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar"
+      "version": "1.0.1-055",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_factory-0.7b-1.21.1.jar",
       "name": "create_factory-0.7b-1.21.1",
-      "file": "create_factory-0.7b-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_factory-0.7b-1.21.1.jar"
+      "version": "1.0.1-056",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_hypertube-0.6.1-NEOFORGE.jar",
       "name": "create_hypertube-0.6.1-NEOFORGE",
-      "file": "create_hypertube-0.6.1-NEOFORGE.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_hypertube-0.6.1-NEOFORGE.jar"
+      "version": "1.0.1-057",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_jetpack-forge-5.2.1.jar",
       "name": "create_jetpack-forge-5.2.1",
-      "file": "create_jetpack-forge-5.2.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/create_jetpack-forge-5.2.1.jar"
+      "version": "1.0.1-058",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createbetterfps-1.21.1-1.1.5.jar",
       "name": "createbetterfps-1.21.1-1.1.5",
-      "file": "createbetterfps-1.21.1-1.1.5.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createbetterfps-1.21.1-1.1.5.jar"
+      "version": "1.0.1-059",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createcobblestone-1.5.1+neoforge-1.21.1-160.jar",
       "name": "createcobblestone-1.5.1+neoforge-1.21.1-160",
-      "file": "createcobblestone-1.5.1+neoforge-1.21.1-160.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createcobblestone-1.5.1+neoforge-1.21.1-160.jar"
+      "version": "1.0.1-060",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
       "name": "creategoggles-1.21.1-6.1.1-[NEOFORGE]",
-      "file": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar"
+      "version": "1.0.1-061",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createpropulsion-1.1.5.jar",
       "name": "createpropulsion-1.1.5",
-      "file": "createpropulsion-1.1.5.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createpropulsion-1.1.5.jar"
+      "version": "1.0.1-062",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar",
       "name": "createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6",
-      "file": "createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar"
+      "version": "1.0.1-063",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cristellib-neoforge-1.21.1-3.1.7.jar",
       "name": "cristellib-neoforge-1.21.1-3.1.7",
-      "file": "cristellib-neoforge-1.21.1-3.1.7.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/cristellib-neoforge-1.21.1-3.1.7.jar"
+      "version": "1.0.1-064",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/defaultoptions-neoforge-1.21.1-21.1.8.jar",
       "name": "defaultoptions-neoforge-1.21.1-21.1.8",
-      "file": "defaultoptions-neoforge-1.21.1-21.1.8.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/defaultoptions-neoforge-1.21.1-21.1.8.jar"
+      "version": "1.0.1-065",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/dragonlib-3.0.29+mc1.21.1-neoforge.jar",
       "name": "dragonlib-3.0.29+mc1.21.1-neoforge",
-      "file": "dragonlib-3.0.29+mc1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/dragonlib-3.0.29+mc1.21.1-neoforge.jar"
+      "version": "1.0.1-066",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/e4mc-neoforge-6.2.3.jar",
       "name": "e4mc-neoforge-6.2.3",
-      "file": "e4mc-neoforge-6.2.3.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/e4mc-neoforge-6.2.3.jar"
+      "version": "1.0.1-067",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/entityculling-neoforge-1.12.1-mc1.21.1.jar",
       "name": "entityculling-neoforge-1.12.1-mc1.21.1",
-      "file": "entityculling-neoforge-1.12.1-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/entityculling-neoforge-1.12.1-mc1.21.1.jar"
+      "version": "1.0.1-068",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/escalated-1.3.2+mc.1.21.1.jar",
       "name": "escalated-1.3.2+mc.1.21.1",
-      "file": "escalated-1.3.2+mc.1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/escalated-1.3.2+mc.1.21.1.jar"
+      "version": "1.0.1-069",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/fallingleaves-1.21.1-2.6.0.jar",
       "name": "fallingleaves-1.21.1-2.6.0",
-      "file": "fallingleaves-1.21.1-2.6.0.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/fallingleaves-1.21.1-2.6.0.jar"
+      "version": "1.0.1-070",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/fast-ip-ping-v1.0.12-mc1.21.1-neoforge.jar",
       "name": "fast-ip-ping-v1.0.12-mc1.21.1-neoforge",
-      "file": "fast-ip-ping-v1.0.12-mc1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/fast-ip-ping-v1.0.12-mc1.21.1-neoforge.jar"
+      "version": "1.0.1-071",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/ferritecore-7.0.3-neoforge.jar",
       "name": "ferritecore-7.0.3-neoforge",
-      "file": "ferritecore-7.0.3-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/ferritecore-7.0.3-neoforge.jar"
+      "version": "1.0.1-072",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
       "name": "forgified-fabric-api-0.116.15+2.3.6+1.21.1",
-      "file": "forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar"
+      "version": "1.0.1-073",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "name": "geckolib-neoforge-1.21.1-4.9.3",
-      "file": "geckolib-neoforge-1.21.1-4.9.3.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar"
+      "version": "1.0.1-074",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/guardvillagers-2.4.12-1.21.1.jar",
       "name": "guardvillagers-2.4.12-1.21.1",
-      "file": "guardvillagers-2.4.12-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/guardvillagers-2.4.12-1.21.1.jar"
+      "version": "1.0.1-075",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/idas-1.13.7+1.21.1-neoforge.jar",
       "name": "idas-1.13.7+1.21.1-neoforge",
-      "file": "idas-1.13.7+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/idas-1.13.7+1.21.1-neoforge.jar"
+      "version": "1.0.1-076",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/integrated_api-neoforge-1.21.1-1.9.2.jar",
       "name": "integrated_api-neoforge-1.21.1-1.9.2",
-      "file": "integrated_api-neoforge-1.21.1-1.9.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/integrated_api-neoforge-1.21.1-1.9.2.jar"
+      "version": "1.0.1-077",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/integrated_stronghold-1.1.4+1.21.1-neoforge.jar",
       "name": "integrated_stronghold-1.1.4+1.21.1-neoforge",
-      "file": "integrated_stronghold-1.1.4+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/integrated_stronghold-1.1.4+1.21.1-neoforge.jar"
+      "version": "1.0.1-078",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/integrated_villages-1.3.3+1.21.1-neoforge.jar",
       "name": "integrated_villages-1.3.3+1.21.1-neoforge",
-      "file": "integrated_villages-1.3.3+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/integrated_villages-1.3.3+1.21.1-neoforge.jar"
+      "version": "1.0.1-079",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
       "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1",
-      "file": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+      "version": "1.0.1-080",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/jamlib-neoforge-1.3.6+1.21.1.jar",
       "name": "jamlib-neoforge-1.3.6+1.21.1",
-      "file": "jamlib-neoforge-1.3.6+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/jamlib-neoforge-1.3.6+1.21.1.jar"
+      "version": "1.0.1-081",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/kotlinforforge-5.13.0-all.jar",
       "name": "kotlinforforge-5.13.0-all",
-      "file": "kotlinforforge-5.13.0-all.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/kotlinforforge-5.13.0-all.jar"
+      "version": "1.0.1-082",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/lanserverproperties-1.13.2-neoforge.jar",
       "name": "lanserverproperties-1.13.2-neoforge",
-      "file": "lanserverproperties-1.13.2-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/lanserverproperties-1.13.2-neoforge.jar"
+      "version": "1.0.1-083",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/lithostitched-1.8.1-neoforge-21.1.jar",
       "name": "lithostitched-1.8.1-neoforge-21.1",
-      "file": "lithostitched-1.8.1-neoforge-21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/lithostitched-1.8.1-neoforge-21.1.jar"
+      "version": "1.0.1-084",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/mattupolisphone112.jar",
       "name": "mattupolisphone112",
-      "file": "mattupolisphone112.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/mattupolisphone112.jar"
+      "version": "1.0.1-085",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/moonlight-1.21.1-3.8.3-neoforge.jar",
       "name": "moonlight-1.21.1-3.8.3-neoforge",
-      "file": "moonlight-1.21.1-3.8.3-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/moonlight-1.21.1-3.8.3-neoforge.jar"
+      "version": "1.0.1-086",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/mru-1.0.41+1.21.1-neoforge.jar",
       "name": "mru-1.0.41+1.21.1-neoforge",
-      "file": "mru-1.0.41+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/mru-1.0.41+1.21.1-neoforge.jar"
+      "version": "1.0.1-087",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
       "name": "notenoughcrashes-neoforge-4.4.9+1.21.1",
-      "file": "notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar"
+      "version": "1.0.1-088",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/particlerain-4.0.4+1.21.1-neoforge.jar",
       "name": "particlerain-4.0.4+1.21.1-neoforge",
-      "file": "particlerain-4.0.4+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/particlerain-4.0.4+1.21.1-neoforge.jar"
+      "version": "1.0.1-089",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
       "name": "puzzleslib-v21.1.66-mc1.21.1+neoforge",
-      "file": "puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar"
+      "version": "1.0.1-090",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/rightclickharvest-neoforge-4.7.1+1.21.1.jar",
       "name": "rightclickharvest-neoforge-4.7.1+1.21.1",
-      "file": "rightclickharvest-neoforge-4.7.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/rightclickharvest-neoforge-4.7.1+1.21.1.jar"
+      "version": "1.0.1-091",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sable-neoforge-1.21.1-2.0.6.jar",
       "name": "sable-neoforge-1.21.1-2.0.6",
-      "file": "sable-neoforge-1.21.1-2.0.6.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sable-neoforge-1.21.1-2.0.6.jar"
+      "version": "1.0.1-092",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/simplemodsync-neoforge-1.21.1-1.4.1.jar",
       "name": "simplemodsync-neoforge-1.21.1-1.4.1",
-      "file": "simplemodsync-neoforge-1.21.1-1.4.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/simplemodsync-neoforge-1.21.1-1.4.1.jar"
+      "version": "1.0.1-093",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/smarterfarmers-1.21-2.2.4-neoforge.jar",
       "name": "smarterfarmers-1.21-2.2.4-neoforge",
-      "file": "smarterfarmers-1.21-2.2.4-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/smarterfarmers-1.21-2.2.4-neoforge.jar"
+      "version": "1.0.1-094",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
       "name": "sodium-neoforge-0.8.13+mc1.21.1",
-      "file": "sodium-neoforge-0.8.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sodium-neoforge-0.8.13+mc1.21.1.jar"
+      "version": "1.0.1-095",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
       "name": "sound-physics-remastered-neoforge-1.21.1-1.5.2",
-      "file": "sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar"
+      "version": "1.0.1-096",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
       "name": "sounds-2.4.22+lts+1.21.1-neoforge",
-      "file": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sounds-2.4.22+lts+1.21.1-neoforge.jar"
+      "version": "1.0.1-097",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/stealth_karlkarlmann_neoforge_1.21.1_ver_1.0.104.jar",
       "name": "stealth_karlkarlmann_neoforge_1.21.1_ver_1.0.104",
-      "file": "stealth_karlkarlmann_neoforge_1.21.1_ver_1.0.104.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/stealth_karlkarlmann_neoforge_1.21.1_ver_1.0.104.jar"
+      "version": "1.0.1-098",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/structurify-neoforge-2.0.43+mc1.21.1.jar",
       "name": "structurify-neoforge-2.0.43+mc1.21.1",
-      "file": "structurify-neoforge-2.0.43+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/structurify-neoforge-2.0.43+mc1.21.1.jar"
+      "version": "1.0.1-099",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/supplementaries-1.21.1-4.1.4-neoforge.jar",
       "name": "supplementaries-1.21.1-4.1.4-neoforge",
-      "file": "supplementaries-1.21.1-4.1.4-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/supplementaries-1.21.1-4.1.4-neoforge.jar"
+      "version": "1.0.1-100",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/t_and_t-fabric-neoforge-1.13.11.jar",
       "name": "t_and_t-fabric-neoforge-1.13.11",
-      "file": "t_and_t-fabric-neoforge-1.13.11.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/t_and_t-fabric-neoforge-1.13.11.jar"
+      "version": "1.0.1-101",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/tectonic-3.0.28-neoforge-21.1.jar",
       "name": "tectonic-3.0.28-neoforge-21.1",
-      "file": "tectonic-3.0.28-neoforge-21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/tectonic-3.0.28-neoforge-21.1.jar"
+      "version": "1.0.1-102",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/veinminer-neoforge-2.14.0+1.21.1.jar",
       "name": "veinminer-neoforge-2.14.0+1.21.1",
-      "file": "veinminer-neoforge-2.14.0+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/veinminer-neoforge-2.14.0+1.21.1.jar"
+      "version": "1.0.1-103",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/voicechat-neoforge-1.21.1-2.6.22.jar",
       "name": "voicechat-neoforge-1.21.1-2.6.22",
-      "file": "voicechat-neoforge-1.21.1-2.6.22.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/voicechat-neoforge-1.21.1-2.6.22.jar"
+      "version": "1.0.1-104",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/watut-neoforge-1.21.0-1.2.7.jar",
       "name": "watut-neoforge-1.21.0-1.2.7",
-      "file": "watut-neoforge-1.21.0-1.2.7.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/watut-neoforge-1.21.0-1.2.7.jar"
+      "version": "1.0.1-105",
+      "type": "mod"
     },
     {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
       "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge",
-      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+      "version": "1.0.1-106",
+      "type": "mod"
     }
   ]
 }
