@@ -38,12 +38,6 @@
       "type": "mod"
     },
     {
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/Distant%20Horizons%20SeedGen%200.9.1%20for%201.21.1%20NeoForge.jar",
-      "name": "Distant Horizons SeedGen 0.9.1 for 1.21.1 NeoForge",
-      "version": "1.0.1-007",
-      "type": "mod"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
       "name": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge",
       "version": "1.0.1-008",
