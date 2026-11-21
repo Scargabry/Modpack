@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "mods": [
     {
       "name": "AdvancementPlaques-1.21.1-neoforge-1.6.8",
@@ -460,6 +460,11 @@
       "name": "sable-neoforge-1.21.1-2.0.6",
       "file": "sable-neoforge-1.21.1-2.0.6.jar",
       "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/sable-neoforge-1.21.1-2.0.6.jar"
+    },
+    {
+      "name": "simplemodsync-neoforge-1.21.1-1.4.1",
+      "file": "simplemodsync-neoforge-1.21.1-1.4.1.jar",
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/simplemodsync-neoforge-1.21.1-1.4.1.jar"
     },
     {
       "name": "smarterfarmers-1.21-2.2.4-neoforge",
