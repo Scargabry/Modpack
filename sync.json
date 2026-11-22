@@ -630,6 +630,12 @@
       "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge",
       "version": "1.0.1-106",
       "type": "mod"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/minedevice-neoforge-1.1.1.jar",
+      "name": "minedevice-neoforge-1.1.1",
+      "version": "1.0.1-107",
+      "type": "mod"
     }
   ]
 }
