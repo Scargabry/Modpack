@@ -21,7 +21,6 @@ try:
     for folder in FOLDERS:
         if not os.path.isdir(folder):
             continue
-        index = 1
         for filename in sorted(os.listdir(folder), key=str.lower):
             filepath = os.path.join(folder, filename)
             if not os.path.isfile(filepath) or filename.startswith("."):
@@ -31,10 +30,8 @@ try:
             entries.append({
                 "url": f"https://raw.githubusercontent.com/Scargabry/Modpack/main/{encoded_path}",
                 "name": os.path.splitext(filename)[0],
-                "version": f"1.0.1-{index:03d}",
                 "type": TYPE_MAP[folder],
             })
-            index += 1
 
     manifest = {
         "sync_version": 3,
