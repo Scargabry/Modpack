@@ -197,11 +197,6 @@
       "type": "mod"
     },
     {
-      "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/embeddium-1.0.15%2Bmc1.21.1.jar",
-      "name": "embeddium-1.0.15+mc1.21.1",
-      "type": "mod"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Scargabry/Modpack/main/mods/entityculling-neoforge-1.12.1-mc1.21.1.jar",
       "name": "entityculling-neoforge-1.12.1-mc1.21.1",
       "type": "mod"
